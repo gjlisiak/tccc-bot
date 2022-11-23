@@ -23,9 +23,9 @@ Images, videos, audios, and icon files need to be stored in an accessible resour
 
 The Health Bot Container sample [Git Repo](https://github.com/microsoft/HealthBotContainerSample/) is an easy to deploy means of providing the web front-end for the TCCC bot.  Once deployed, parameters can be appended to the end of the URL to trigger multi-language support.
 
-- `Auto Detect` "/?locale=autodetect"
-- `English override` "/?locale=en-us"
-- `Ukrainian` "/?locale=uk-ua"
+- `Auto Detect` /?locale=autodetect
+- `English` /?locale=en-us
+- `Ukrainian` /?locale=uk-ua
 
 ### Environment Variables
 
