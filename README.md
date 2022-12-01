@@ -38,6 +38,8 @@ The bot requires the use of two environment variables. The first is used for dis
 
 The TCCC bot was developed in a highly scalable fashion and translated into Ukrainian at the request of the NGO.  Additional languages can be added easily via updates to Excel which would be subsequently uploaded to the Azure Health Bot.  The only remaining effort required to fully support additional languages is to update the Global Resources action block in the main menu scenario.  This is critical if you intend to incorporate language specific images, audios, or videos.
 
+The localization.xls file contains the initial strings to support English and Ukrainian languages.  The file can be expanded to easily scale the bot for additional languages.  For more information on the Localization Manager within the Azure Health Bot, see the [Localization](https://learn.microsoft.com/en-us/azure/health-bot/localization) documentation. A list of supported locales can be found [here](https://learn.microsoft.com/en-us/azure/health-bot/supported_locales).
+
 ## Project Resources and References
 
 ### Stepwise Scenario Execution Flow
